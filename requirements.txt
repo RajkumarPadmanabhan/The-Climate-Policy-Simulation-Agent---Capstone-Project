@@ -1,0 +1,7 @@
+Core ADK and general Python libraries used in a real project
+
+Note: For this simulated environment, many are built-in (json, uuid, typing).
+
+adk-python
+requests # Often needed for real search/external API calls
+python-dotenv # For managing API keys
